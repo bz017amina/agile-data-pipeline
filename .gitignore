@@ -3,3 +3,4 @@ __pycache__/
 target/
 dbt_packages/
 *.duckdb
+dbt_pipeline/logs/
