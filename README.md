@@ -52,8 +52,3 @@ dbt_pipeline/
 docs/
 ```
 
-## Auteur
-
-Amina BOUAZZA
-
-Master Intelligence Artificielle
